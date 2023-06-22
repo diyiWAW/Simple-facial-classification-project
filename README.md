@@ -1,4 +1,9 @@
-# Simple-facial-classification-project
-# 简介
+#简单面部分类项目
+#简介
 主要代码在master中
 
+经典机器学习：knn和朴素贝叶斯
+集成学习_cyh代码：经典集成学习算法 和 基于梯度提升决策树的集成学习算法
+图像增强+SIFT重构代码：如题
+haar+Resnet18：如题
+CNN+svm：Resnet50提取特征，特征用于svm分类
